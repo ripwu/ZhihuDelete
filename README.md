@@ -7,7 +7,7 @@
 我的方式是在PC上通过fiddler设置代理并导出证书(.cer)，在iPhone上配置代理并信任证书
 然后使用fiddler Custom Rules根据API批量爬取并删除动态
 
-![Usage](ZhihuDelete.png)
+![Usage](ZhiHuDelete.png)
 
 # 脚本
 
