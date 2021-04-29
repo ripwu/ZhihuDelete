@@ -68,3 +68,4 @@
 知乎关注、话题、问题、专栏，在 web 端有单条取消接口，因此简单很多，使用 Chrome DevTools 分析后用 Console 跑脚本即可  
 对应脚本在 chrome_snippets.js 中  
 fetch 时 HTTP Header 相关参数，可以手动触发一次请求后抓包，然后 Copy as Node.js fetch
+
